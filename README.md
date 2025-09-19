@@ -7,7 +7,7 @@
 ---
 
 ## **Project Overview**
-CDI is a major healthcare-associated infection, with vancomycin as a first-line therapy. While 125 mg every 6 hours is standard, higher doses are sometimes prescribed for severe cases. The impact of higher dosing strategies on **recurrence**, **time-to-resolution**, and **mortality** remains unclear.
+CDI is a major healthcare-associated infection, with vancomycin as a first-line therapy. While 125 mg every 6 hours is standard, higher doses are sometimes prescribed for severe cases. The impact of higher dosing strategies on recurrence,time to resolution, and mortality remains unclear.
 
 This project uses electronic health record (EHR) data from **xxx, Riyadh (2024)** to compare outcomes across oral vancomycin dose groups (125 mg, 250 mg, 500 mg).
 
@@ -23,7 +23,7 @@ This project uses electronic health record (EHR) data from **xxx, Riyadh (2024)*
 ---
 
 ## **Methods**
-- **Study Design:** Retrospective cohort study (**n = 198** patients).
+- **Study Design:** Retrospective cohort study (n = 198 patients).
 - **Inclusion Criteria:** Adults ≥18 years with confirmed CDI treated with oral vancomycin ≥72 h.
 - **Exclusion Criteria:** Complicated CDI (toxic megacolon, perforation), rectal vancomycin, fecal microbiota transplant, multiple CDI courses in the same year.
 - **Outcomes Measured:** 90-day recurrence, time to symptom resolution, 90-day mortality, adverse events (if recorded).
